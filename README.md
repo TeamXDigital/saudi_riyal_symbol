@@ -40,8 +40,8 @@ To use a different symbol:
 
 ## Screenshots
 
-*(Optional: Add screenshots here if available.)*
-1. Default WooCommerce SAR symbol vs. custom SVG symbol.
+1. Default WooCommerce SAR symbol vs. custom SVG symbol:
+   ![Saudi Riyal Symbol Screenshot](https://raw.githubusercontent.com/TeamXDigital/saudi_riyal_symbol/main/assets/Screenshot.png)
 
 ## Frequently Asked Questions
 
