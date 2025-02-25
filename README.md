@@ -17,7 +17,7 @@ This plugin enhances the WooCommerce experience for stores using the Saudi Riyal
 
 ## Installation
 
-1. Download the plugin ZIP file from the [official plugin page](https://team-x.digital/).
+1. Download the plugin ZIP file from the [github TEAM-X](https://github.com/TeamXDigital/saudi_riyal_symbol).
 2. In your WordPress admin panel, navigate to **Plugins > Add New > Upload Plugin**.
 3. Upload the ZIP file and click **Install Now**.
 4. Activate the plugin through the **Plugins** menu in WordPress.
